@@ -1,0 +1,25 @@
+# Dependencies
+**/node_modules/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Build output and caches
+**/dist/
+**/.next/
+**/coverage/
+**/*.tsbuildinfo
+
+# Local uploads, keep the folder itself
+backend/uploads/*
+!backend/uploads/.gitkeep
+uploads/*
+!uploads/.gitkeep
+
+# Local editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/extensions.json

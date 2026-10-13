@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 560" fill="none">
+  <rect width="720" height="560" fill="#e8e5dc"/>
+  <path d="M0 416h720v144H0z" fill="#d4d0c5"/>
+  <path d="M0 438h720M0 477h720M0 516h720" stroke="#c1bcae" stroke-width="2"/>
+  <g transform="translate(112 98)">
+    <path d="M15 85 310 20l34 20L50 108z" fill="#72776d"/>
+    <path d="m50 108 294-68v211L50 328z" fill="#464d47"/>
+    <path d="m15 85 35 23v220l-35-23z" fill="#8a8d80"/>
+    <path d="m91 157 185-43v27L91 185z" fill="#a5a394" opacity=".6"/>
+    <path d="m91 209 185-43v19L91 228z" fill="#a5a394" opacity=".35"/>
+    <path d="m91 265 185-43v13L91 278z" fill="#a5a394" opacity=".25"/>
+    <path d="m201 367 257-59 34 20-257 61z" fill="#b65c3a"/>
+    <path d="m235 389 257-61v66l-257 61z" fill="#a64e31"/>
+    <path d="m201 367 34 22v66l-34-22z" fill="#ca7652"/>
+    <path d="m259 404 190-45" stroke="#dd9675" stroke-width="5" opacity=".75"/>
+    <path d="M73 359h425" stroke="#767a70" stroke-width="11" stroke-linecap="round"/>
+  </g>
+  <path d="M36 42h44M36 42v44M684 42h-44M684 42v44M36 518h44M36 518v-44M684 518h-44M684 518v-44" stroke="#b55936" stroke-width="2"/>
+  <text x="52" y="503" fill="#52594f" font-family="monospace" font-size="12" letter-spacing="2">TRADE STOCK / BUILT FOR THE WORKSHOP</text>
+</svg>
